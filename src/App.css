@@ -7,8 +7,8 @@
 }
 
 body {
-  border: solid #2c3a47 100px;
-  background-color: turquoise;
+    border: solid #2c3a47 100px;
+    background-color: turquoise;
     ;
     font-family: "Montserrat", sans-serif;
 }
@@ -127,4 +127,6 @@ button {
     color: white;
     font-size: 20px;
     border-color: white;
+    cursor: pointer;
+    border-radius: 5px;
 }
